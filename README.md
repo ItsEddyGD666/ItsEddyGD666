@@ -70,7 +70,7 @@ Comencé mi trayectoria en el mundo de la programación explorando el lenguaje d
     </a>
     <a href="http://www.instagram.com/itseddygd_" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: dark)"/>
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
@@ -79,7 +79,7 @@ Comencé mi trayectoria en el mundo de la programación explorando el lenguaje d
     </a>
     <a href="https://discord.com/users/ItsEddyGD#7814" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: dark)"/>
             <source media="(prefers-color-scheme: light)"
                 srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
