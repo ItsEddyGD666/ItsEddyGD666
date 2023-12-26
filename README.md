@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 Hola, Mi nombre es Eduardo Aguilar
 ================================
 
-Ingeniero de Software
+Ingeniero En Computación
 ---------------------
 
 Comencé mi trayectoria en el mundo de la programación explorando el lenguaje de programación C, donde construí una sólida base técnica y un entendimiento profundo de la lógica de programación. En los últimos meses, me he dedicado a aprender programación web, abarcando tanto el desarrollo backend como el frontend, áreas que encuentro muy interesantes.
