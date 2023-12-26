@@ -9,7 +9,7 @@ Hola, Mi nombre es Eduardo Aguilar
 Ingeniero de Software
 ---------------------
 
-Comencé mi trayectoria en el mundo de la programación explorando el lenguaje de programación C, donde construí una sólida base técnica y un entendimiento profundo de la lógica de programación. En los últimos meses, he ampliado mis conocimientos hacia la programación web, destacando mi capacidad para adaptarme y sobresalir en entornos tecnológicos en constante evolución.
+Comencé mi trayectoria en el mundo de la programación explorando el lenguaje de programación C, donde construí una sólida base técnica y un entendimiento profundo de la lógica de programación. En los últimos meses, me he dedicado a aprender programación web, abarcando tanto el desarrollo backend como el frontend, áreas que encuentro muy interesantes.
 
 * 🌍  Soy de México
 * ✉️  Me puedes contactar en [ItsEddyGD@gmail.com](mailto:ItsEddyGD@gmail.com)
