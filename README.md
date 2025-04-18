@@ -33,13 +33,14 @@ Comencé mi trayectoria en el mundo de la programación explorando el lenguaje d
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
             width="36" height="36" alt="TailwindCSS" /></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-            width="36" height="36" alt="PHP" /></a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-            width="36" height="36" alt="Laravel" /></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+    <a href="" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+            width="36" height="36" alt="Java" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img
+            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+            width="36" height="36" alt="Spring" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
             width="36" height="36" alt="MySQL" /></a>
 </p>
