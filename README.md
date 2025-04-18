@@ -13,7 +13,7 @@ Comencé mi trayectoria en el mundo de la programación explorando el lenguaje d
 
 * 🌍  Soy de México
 * ✉️  Me puedes contactar en [ItsEddyGD@gmail.com](mailto:ItsEddyGD@gmail.com)
-* 🧠  Actualmente estoy aprendiendo Laravel 
+* 🧠  Actualmente estoy aprendiendo Java / Spring Boot
 
 ### Habilidades
 
